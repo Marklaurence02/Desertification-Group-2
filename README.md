@@ -1,6 +1,4 @@
-# Desertification-Group-2
-
- #Instructions
+# Desertification-Group-2 Instructions
 
 Step 1: Download the Folder
 
