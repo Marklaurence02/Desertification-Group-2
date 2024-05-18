@@ -1,20 +1,20 @@
 # Desertification-Group-2
 
-Read Me First
-
-Instructions
-
 Step 1: Download the Folder
 
-Download the folder: Desertification Folder
+Go to the GitHub repository where the desertification folder is located.
+
+Click on the <Code> button (usually green) near the top right corner of the repository page.
+
+Select "Download ZIP" from the dropdown menu to download the folder as a compressed file.
 
 Step 2: Extract the Folder
 
-Locate the downloaded folder on your computer.
+Locate the downloaded ZIP file on your computer.
 
-Extract the folder if it is in a compressed format (e.g., .zip, .rar).
+Extract the folder from the ZIP file.
 
-Right-click on the compressed file.
+Right-click on the ZIP file.
 
 Select "Extract All..." and choose a destination folder.
 
