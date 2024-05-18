@@ -1,5 +1,7 @@
 # Desertification-Group-2
 
+ #Instructions
+
 Step 1: Download the Folder
 
 Go to the GitHub repository where the desertification folder is located.
